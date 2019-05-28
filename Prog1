@@ -1,0 +1,45 @@
+package lab;
+import java.util.Scanner;
+
+public class student {
+	String USN;  
+	String Name;
+	String Branch;
+	int Phone;
+	void getRecords(String usn, String name, String branch, int ph)
+	{
+		USN = usn;
+		Name= name;
+		Branch= branch;
+		Phone = ph;
+	}
+	void displayRecords()
+	{
+		System.out.println(USN+" "+ Name +" "+ Branch +" "+ Phone);
+	}
+	public static void main(String[] args) {
+	student s[]= new student[100];
+	Scanner in= new Scanner(System.in);
+	System.out.println("Enter the number of Students\n");
+	int n= in.nextInt();
+	for(int i=1;i<=n ;i++)
+	{
+		s[i]= new student();
+	}
+	for(int j=1; j<=n;j++)
+	{
+		System.out.println("Enter the Student details\n");
+		String USN= in.next();
+		String Name = in.next();
+		String Branch = in.next();
+		int Phone = in.nextInt();
+		s[j].getRecords(USN, Name, Branch, Phone);
+	}
+	for(int m=1; m<=n;m++)
+	{
+		s[m].displayRecords();
+		
+	}
+	}
+
+}
