@@ -34,3 +34,5 @@ B.Write a Java program that implements a multi-thread application that has three
 5.Sort a given set of n integer elements using Merge Sort method and compute its time complexity. Run the program for varied values of n> 5000, and record the time taken to sort. Plot a graph of the time taken versus non graph sheet. The elements can be read from a file or can be generated using the random number generator. Demonstrate using Java how the divide-and-conquer method works along with its time complexity analysis: worst case, average case and best case. 
 6.Implement in Java, the 0/1 Knapsack problem using (a) Dynamic Programming method (b) Greedy method. 
 7.From a given vertex in a weighted connected graph, find shortest paths to other vertices using Dijkstra's algorithm. Write the program in Java.
+8.Find Minimum Cost Spanning Tree of a given connected undirected graph using  Kruskal'salgorithm. Use Union-Find algorithms in your program.  
+ 
