@@ -1,6 +1,7 @@
 DESIGN AND ANALYSIS OF ALGORITHM LABORATORY 
 Subject Code 17CSL47 
 Just hve to write something and go with it 
+Hello there
 
 
 List of Experiments
@@ -27,7 +28,7 @@ B.Write a Java class called Customer to store their name and date_of_birth. The
 		
 3.A.Write a Java program to read two integers a andb. Compute a/b and print, when
 	 	b is not zero. Raise an exception when b is equal to zero. 	
-		
+		Okay this might me difficult
 B.Write a Java program that implements a multi-thread application that has three
 		threads. First thread generates a random integer for every 1 second; second
 		thread computes the square of the number andprints; third thread will print the
