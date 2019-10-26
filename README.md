@@ -1,7 +1,7 @@
 DESIGN AND ANALYSIS OF ALGORITHM LABORATORY 
 Subject Code 17CSL47 
-Just hve to write something and go with it and make it happen
-
+Just hve to write something and go with it 
+hi bro
 
 List of Experiments
 1. A. Create a Java class called Studentwith the following details as variables within it.
