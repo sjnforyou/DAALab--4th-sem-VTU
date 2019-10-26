@@ -1,6 +1,6 @@
 DESIGN AND ANALYSIS OF ALGORITHM LABORATORY 
 Subject Code 17CSL47 
-Just hve to write something and go with it 
+Just hve to write something and go with it and make it happen
 
 
 List of Experiments
